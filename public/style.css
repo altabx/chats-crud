@@ -1,0 +1,37 @@
+body {
+    margin-left: 20px;
+}
+
+.box {
+    background-color: rgb(207, 236, 231);
+    padding: 17px;
+    border-radius: 17px;
+    display: inline-block;
+}
+
+.contain {
+    background-color: rgb(95, 157, 196);
+    padding: 2px 15px;
+    border-radius: 17px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: rgb(21, 0, 255);
+    color: white;
+}
+
+.editbtn {
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: rgb(219, 122, 32);
+    color: white;
+}
+
+.dltmsg {
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: rgb(180, 4, 4);
+    color: white;
+}
